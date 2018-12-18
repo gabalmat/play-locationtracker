@@ -1,5 +1,7 @@
 # NCSU CSC 750 (Service Oriented Computing)
 
+Project 1
+
 Play framework server application for Android application that tracks a user's
 location during outdoor activities (walking, running, or cycling). The Android application 
 constantly sends the user’s location to this server, which saves the location information 
