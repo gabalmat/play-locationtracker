@@ -12,3 +12,5 @@ the user’s speed.
 The server accepts requests in JSON format, saves the location information in an SQL
 database, and sends to the client a) total distance and b) how long the client should wait
 before sending the next update.
+
+For more details, see [Assignment Instructions](doc/Project1_assignment.pdf)
